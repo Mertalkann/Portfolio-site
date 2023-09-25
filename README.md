@@ -1,6 +1,7 @@
 # Simge Sevincer Kişisel Web Sitesi
-
+![*](https://github.com/Mertalkann/Portfolio-site/blob/main/image.gif)
 Bu GitHub deposu, kişisel web sitesinin kaynak kodlarını ve içeriğini içerir. Bu web sitesi, beceriler, yetenekler, özgeçmiş, sertifikalar ve iletişim bilgilerini paylaşmak için oluşturuldu. Ayrıca, ziyaretçilerle etkileşime geçmelerini sağlayan çeşitli özelliklere sahiptir.
+
 
 ## Özellikler
 
