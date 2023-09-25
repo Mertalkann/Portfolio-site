@@ -1,8 +1,18 @@
-# Simge Sevincer Kişisel Web Sitesi
-## Web Görünümü
-![*](https://github.com/Mertalkann/Portfolio-site/blob/main/image.gif)
-## Mobil Görünümü
-![*](https://github.com/Mertalkann/Portfolio-site/blob/main/image1.gif)
+
+
+<h1 align="center">Kişisel Web Sitesi</h1>
+
+<!-- Proje Açıklaması -->
+  <h2 align="center">Web Arayüzü</h2>
+<p align="center">
+  <img src="https://github.com/Mertalkann/Portfolio-site/blob/main/image.gif" alt="Web">
+</p>
+
+<h2 align="center">Mobil Arayüzü</h2>
+<p align="center">
+  <img src="https://github.com/Mertalkann/Portfolio-site/blob/main/image1.gif" alt="Mobil">
+</p>
+
 
 ## Proje Açıklaması
 Bu GitHub deposu, kişisel web sitesinin kaynak kodlarını ve içeriğini içerir. Bu web sitesi, beceriler, yetenekler, özgeçmiş, sertifikalar ve iletişim bilgilerini paylaşmak için oluşturuldu. Ayrıca, ziyaretçilerle etkileşime geçmelerini sağlayan çeşitli özelliklere sahiptir.
@@ -39,8 +49,6 @@ Web sitesini yerel makinenizde çalıştırmak için aşağıdaki adımları izl
 Bu projeye katkıda bulunmak isterseniz, lütfen bir çekme isteği (pull request) gönderin. Her türlü katkı ve öneriye açığız.
 
 ## İletişim
-
-- Web Sitesi: [http://simgesevincer.wuaze.com/](http://simgesevincer.wuaze.com/)
 - GitHub: [https://github.com/Mertalkann](https://github.com/Mertalkann)
 - E-posta: mertalkan00@gmail.com
 
